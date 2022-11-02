@@ -14,7 +14,7 @@ UTILISATEUR
 ADMINISTRATEUR
 - Création de code unique permettant à l'utilisateur de s'inscrire
 - Changement de rôle utilisateur / administrateur
-- Ajout/suppression d'une école de destination
+- Ajout / suppression d'une école de destination
 
 API
 - Google autocomplete : permet d'auto-compléter la ville qu'on souhaite entrer. Par la suite la latitude et longitude sont gardées afin de calculer les détours possibles lors de la racherche de trajet.
