@@ -17,4 +17,4 @@ ADMINISTRATEUR
 - Ajout/suppression d'une école de destination
 
 API
-- Google autocomplete : permet d'auto-compléter la ville qu'on souhaite entrer. Par la suite la latitude et longitude sont gardés afin de calculer les détours possibles lors de la racherche de trajet.
+- Google autocomplete : permet d'auto-compléter la ville qu'on souhaite entrer. Par la suite la latitude et longitude sont gardées afin de calculer les détours possibles lors de la racherche de trajet.
