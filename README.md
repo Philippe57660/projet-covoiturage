@@ -9,7 +9,7 @@ UTILISATEUR
 - Publication / suppression de trajet
 - Réservation de trajet
 - Confirmation / refus de réservation
-- Messagerie instantannée
+- Messagerie instantanée
 
 ADMINISTRATEUR
 - Création de code unique permettant à l'utilisateur de s'inscrire
